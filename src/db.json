@@ -1,0 +1,21 @@
+[
+  {
+  "openingBalance": 10,
+  "asOfDate": "20230727",
+  "cashFlows": [
+  {
+  "type": "DEBIT",
+  "amount": 2,
+  "frequency": "DAILY",
+  "startDate": "20230701"
+  },
+  {
+  "type": "CREDIT",
+  "amount": 2,
+  "frequency": "WEEKLY",
+  "startDate": "20230801"
+  }
+  ]
+  }
+]
+  
